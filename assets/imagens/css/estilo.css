@@ -267,6 +267,7 @@ body{
     background-color: rgb(228, 228, 172);
     border-color: white;
     border-radius: 20px;
+    color: black;
     font-family: 'Poppins', sans-serif;
     padding: 8px;
     cursor: pointer;
